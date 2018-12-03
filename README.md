@@ -3,7 +3,7 @@ Fap Faucet Script with antibotlinks, multi coins, auto ban user
 
 # Mininum Requirements
 
-- PHP >= 5.4 (tested on 5.6), please do not use PHP 7.0 or higher
+- PHP >= 5.6
 
 - MySQL
 
